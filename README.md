@@ -15,7 +15,7 @@ Jogo criado para auxiliar a prática da linguagem SQL na disciplina de Jogos min
   Executar:
   ``` sqlpad ```
  
-* Passo 4: Em outro prompt dentro da pasta do código execute o comando:
+* Passo 4: Em outro prompt de comando, dentro da pasta do código execute o comando:
 
     ``` npm start ```
     
