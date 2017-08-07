@@ -1,0 +1,71 @@
+html{
+    background-image: url("/images/fire_triangles_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    padding: 50px;
+    width: 93.3%;
+    min-height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    background: rgba(0, 0, 0, 0.40);
+}
+
+#modalHist{
+    background: rgba(255, 255, 255, 0.5);
+    width: 50%;
+    height: 850px;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: large;
+    text-align: justify;
+    float: left;
+}
+
+#modalHist img{
+    width: 600px;
+    height: 300px;
+    margin: 10px 50px;
+}
+
+#modalLocais{
+    float: left;
+    height: 850px;
+    width: 40%;
+    padding: 20px;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.54);
+    margin-left: 15px;
+    color: #FFF;
+}
+
+.circle_block {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11.5pt;
+    float: left;
+    width: 165px;
+    height: 165px;
+    text-align: center;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+
+.circle_block img {
+    border-radius: 100px;
+}
+
+.circle {
+    margin-top: 5px;
+    margin-bottom: -5px;
+    width: 180px;
+    height: 180px;
+}
+
+
